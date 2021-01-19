@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-ML-DL
+# Human-Activity-Recognition-ML
